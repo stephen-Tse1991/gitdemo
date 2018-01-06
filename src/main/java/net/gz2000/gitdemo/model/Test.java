@@ -6,9 +6,6 @@ package net.gz2000.gitdemo.model;
 public class Test {
     public static void main(String[] args) {
         System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
-		System.out.println("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb");
-		System.out.println("cccccccccccccccccccccccccccccccc");
-		System.out.println("dddddddddddddddddddddddddddddddd");
-	    System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee");
+	System.out.println("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb");
     }
 }
